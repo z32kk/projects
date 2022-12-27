@@ -1,0 +1,15 @@
+REM AUTHOR: z32kk
+REM TARGET: Windows 10
+REM INFO: Spams notepad.
+
+DELAY 1000
+
+REM Open multiple instances of notepad
+REPEAT 10
+GUI R
+DELAY 100
+STRING calc
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+END
