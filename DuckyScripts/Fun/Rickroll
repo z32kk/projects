@@ -1,0 +1,14 @@
+REM -- AUTHOR: z32k
+REM -- TARGET: Windows10/11
+REM -- INFO: Opens the rickroll link You can customize it to your liking.
+
+DELAY 2000
+REM ----- Opens the run box
+GUI R
+DELAY 100
+REM ----- Types the link you want to open.
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+REM ----- Adjust delay for internet speeds.
+DELAY 2000
+STRING F
