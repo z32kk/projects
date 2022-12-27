@@ -1,5 +1,5 @@
 # z32kk's projects
-![new logogoasdScaSdAS_X](https://user-images.githubusercontent.com/121398742/209651439-2bdac9f0-39b6-4471-b99d-109c5ff82418.png)
+![dasdasdasdas (1)](https://user-images.githubusercontent.com/121398742/209668473-3fa85f1f-3952-4032-ba9d-b56384cc1604.png)
 
 I will be posting some projects in this repository.
 
