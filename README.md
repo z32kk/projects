@@ -3,7 +3,7 @@
 ***By downloading and using any of the items in this repository you agree to the [Usage Agreement](https://github.com/z32kk/projects/blob/main/USAGE%20AGREEMENT.md)***
 
 # DuckyScript
-![image](https://user-images.githubusercontent.com/121398742/209686499-d4f7e9cf-b16e-490f-bf41-35922ef48662.png)
+![image](https://user-images.githubusercontent.com/121398742/209689158-5bcd09b9-6e4f-4cbd-bed7-452b02843ae1.png)
 
 DuckyScript is a script language used to automate tasks on a computer. It was specifically designed for use with the USB Rubber Ducky, a device that can mimic the functions of a keyboard and execute pre-programmed scripts.
 
