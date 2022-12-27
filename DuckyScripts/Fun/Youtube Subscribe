@@ -1,6 +1,7 @@
 REM -- AUTHOR: z32k
 REM -- TARGET: Windows10/11
 REM -- INFO: This subscribes to a youtube channel of your choice. Just change the link and don't remove the ?sub_confirmation=1
+REM -- btw this is made to work with Google Chrome.
 
 DELAY 2000
 REM opens the run box
