@@ -5,11 +5,58 @@ REM INFO: Spams notepad.
 DELAY 1000
 
 REM Open multiple instances of notepad
-REPEAT 10
 GUI R
 DELAY 100
 STRING notepad
 ENTER
 DELAY 500
 STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
-END
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+GUI R
+DELAY 100
+STRING notepad
+ENTER
+DELAY 500
+STRING ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer ok boomer
+
