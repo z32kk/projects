@@ -1,0 +1,39 @@
+REM -- AUTHOR: z32k
+REM -- TARGET: ChromeOS
+REM -- INFO: This subscribes to a youtube channel of your choice and then deletes the search history. Just change the link but don't remove the ?sub_confirmation=1
+
+DELAY 2000
+REM opens a new tab
+CTRL T
+DELAY 500
+REM starts to type the channel url
+STRING https://www.youtube.com/channel/UCOC3066mSyFDhZ9S4l1GsDg?sub_confirmation=1
+ENTER
+DELAY 4500
+REM chooses the subscribe button
+TAB
+TAB
+ENTER
+DELAY 100
+REM opens the search history
+CTRL H
+DELAY 500
+REM selects the most recent website AKA the youtube site
+TAB
+TAB
+TAB
+ENTER
+REM then presses the delete button
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+ENTER
+ENTER
+DELAY 100
+REM closes the browser
+CTRL W
+CTRL W
