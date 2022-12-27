@@ -1,5 +1,6 @@
 # z32kk's projects
-![Add a heading](https://user-images.githubusercontent.com/121398742/209668968-b96e384d-1756-4088-8b24-a9d8a62a8c35.png)
+![projects logo](https://user-images.githubusercontent.com/121398742/209669745-60bba86f-5b3a-485f-a129-bf74f21ff5cb.png)
+
 
 I will be posting some projects in this repository.
 
