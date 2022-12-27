@@ -1,0 +1,21 @@
+REM -- AUTHOR: z32k
+REM -- TARGET: Windows10/11
+REM -- INFO: This subscribes to a youtube channel of your choice. Just change the link and don't remove the ?sub_confirmation=1
+
+DELAY 2000
+REM opens the run box
+GUI R
+DELAY 200
+REM types the channel url
+STRING https://www.youtube.com/channel/UCOC3066mSyFDhZ9S4l1GsDg?sub_confirmation=1
+ENTER
+DELAY 4500
+REM chooses the subscribe button
+TAB
+TAB
+ENTER
+DELAY 100
+REM turns off the browser
+ALT F4
+DELAY 100
+ENTER
