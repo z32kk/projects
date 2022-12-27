@@ -1,0 +1,12 @@
+REM -- AUTHOR: z32k
+REM -- TARGET: Windows 10
+REM -- INFO: This will open a fake BSOD and then fullscreen it.
+
+DELAY 2000
+GUI R
+DELAY 100
+STRING https://fakeupdate.net/win10ue/bsod.html
+ENTER
+REM ----- Adjust delay below for internet speeds.
+DELAY 3000
+F11
