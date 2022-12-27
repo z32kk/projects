@@ -4,4 +4,4 @@
 I will be posting some projects in this repository.
 
 
-# **ONLY USE THESE ON MACHINES YOU HAVE BEEN GRANTED PERMISSION TO DO THIS ON, SUCH AS YOUR OWN. z32kk is not liable for any illegal things caused by this repository.**
+# **I am not liable for any damages or anything illegal that takes place due to this repository. This is for educational purposes only. Only test these on devices you have permission to use.**
