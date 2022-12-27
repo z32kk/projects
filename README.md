@@ -3,4 +3,4 @@
 I will be posting some projects in this repository.
 
 
-**I am not liable for any damages or anything illegal that takes place due to this repository. This is for educational purposes only. Only test these on devices you have permission to use.**
+***I am not liable for any damages or anything illegal that takes place due to this repository. This is for educational purposes only. Only test these on devices you have permission to use.
