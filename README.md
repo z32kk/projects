@@ -3,23 +3,28 @@
 ***By downloading and using any of the items in this repository you agree to the [Usage Agreement](https://github.com/z32kk/projects/blob/main/USAGE%20AGREEMENT.md)***
 
 # DuckyScript
-The DuckyScript language is a script language used to automate tasks on a computer. It was specifically designed for use with the USB Rubber Ducky, a device that can mimic the functions of a keyboard and execute pre-programmed scripts.
+![image](https://user-images.githubusercontent.com/121398742/209686499-d4f7e9cf-b16e-490f-bf41-35922ef48662.png)
 
-# Instructions
-1. First, make sure you have a USB Rubber Ducky and the necessary software installed on your computer. You can find instructions for setting up the USB Rubber Ducky on the official website.
+DuckyScript is a script language used to automate tasks on a computer. It was specifically designed for use with the USB Rubber Ducky, a device that can mimic the functions of a keyboard and execute pre-programmed scripts.
 
-2. Next, browse to the Github repository containing the DuckyScripts you want to use. You can find repositories by searching for keywords related to your desired task, or by browsing through popular repositories in the DuckyScript language.
+DuckyScript is simple and easy to learn, and it can be used to perform a wide range of tasks on a computer. For example, DuckyScript can be used to automate data entry, launch applications, manipulate files, and execute custom commands.
 
-3. Once you have found a repository with the scripts you want to use, you can download the scripts by clicking on the "Clone or download" button and selecting "Download ZIP." This will download a zip file containing all the scripts in the repository.
+One of the main advantages of DuckyScript is its ability to execute scripts quickly and efficiently. Because it can mimic the functions of a keyboard, it can execute scripts much faster than a human could type them.
 
-4. Extract the zip file to a location on your computer. This will create a folder containing all the scripts in the repository.
+DuckyScript is also highly portable, as it can be run on any computer with a USB port. This makes it a useful tool for security professionals and enthusiasts who need to perform tasks on a variety of different systems.
 
-5. Open the script you want to use in a text editor, and make any necessary modifications to the script. For example, you may need to change the script to launch a specific application or enter specific data.
+Overall, DuckyScript is a powerful and versatile script language that can be used to automate tasks and perform a wide range of functions on a computer. It is an important tool for those interested in exploring and understanding the capabilities and limitations of computer systems.
 
-6. Once you have finished modifying the script, save it to your computer.
 
-7. Use the software provided with the USB Rubber Ducky to convert the script into a binary file that can be executed on the device. You can find instructions for this process in the documentation provided with the software.
+# Flipper Zero
+![image](https://user-images.githubusercontent.com/121398742/209686222-03a704f5-1e35-481b-b48b-16aed300ebb5.png)
 
-8. Plug the USB Rubber Ducky into a computer and run the binary file to execute the script. The USB Rubber Ducky will mimic the functions of a keyboard and execute the script as if it were being typed by a human.
+Flipper Zero is a small, portable hacking device that allows users to perform various tasks such as bypassing password prompts and accessing protected systems. It is designed to be easy to use and requires no programming knowledge.
 
-Remember to use caution when running scripts from unfamiliar sources, as they may potentially harm your computer or data. It is always a good idea to carefully review and test scripts before using them.
+Flipper Zero is based on the Raspberry Pi Zero W, a single-board computer that is small and powerful enough to run various Linux operating systems. It includes a variety of hardware and software tools that allow users to perform tasks such as cracking passwords, accessing hidden networks, and installing custom software.
+
+One of the main features of Flipper Zero is its ability to "flip" or bypass password prompts and access protected systems. It can do this by emulating a keyboard and typing in pre-programmed commands, or by using a technique called "rubber ducking" to bypass security measures.
+
+Flipper Zero also includes a variety of other tools and features, such as a built-in screen and keyboard, a USB port for attaching additional devices, and the ability to run custom software. It is designed to be portable and easy to carry, making it a useful tool for security professionals and enthusiasts.
+
+Overall, Flipper Zero is a powerful and versatile device that can be used for a wide range of tasks, including security testing and penetration testing. It is an important tool for those interested in exploring and understanding the capabilities and limitations of computer systems.
